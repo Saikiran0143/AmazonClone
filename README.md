@@ -8,4 +8,4 @@ A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS
 * Javascript
 
 # Live Link:
-
+https://saikiran0143.github.io/AmazonClone/
